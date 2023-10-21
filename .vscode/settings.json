@@ -1,0 +1,17 @@
+{
+    "editor.formatOnSave": true,
+    "editor.inlayHints.enabled": "off",
+    "rust-analyzer.inlayHints.typeHints.enable": false,
+    "rust-analyzer.inlayHints.parameterHints.enable": false,
+    "rust-analyzer.lens.enable": false,
+    "workbench.colorCustomizations": {
+      // Name of the theme you are currently using
+      "[Default Dark+]": {
+        "editorInlayHint.foreground": "#868686f0",
+        "editorInlayHint.background": "#3d3d3d48",
+        // Overrides for specific kinds of inlay hints
+        "editorInlayHint.typeForeground": "#fdb6fdf0",
+        "editorInlayHint.parameterForeground": "#fdb6fdf0",
+      }
+    }
+  }
